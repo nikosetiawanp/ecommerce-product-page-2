@@ -9,7 +9,7 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   integrations: [react()],
   site: "https://astronaut.github.io",
-  base: "ecommerce-product-page",
+  base: "ecommerce-product-page-2",
 
   vite: {
     plugins: [tailwindcss()],
